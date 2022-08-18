@@ -6,10 +6,10 @@ public class conexaoBD {
    private static final String USERNAME = "root";
  
 
-   private static final String PASSWORD = "87578662everton";
+   private static final String PASSWORD = "SenhadoBD";
  
 
-   private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/entrar";
+   private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/Caminho";
 
 
  public static Connection createConnectionToMySQL() throws Exception{
